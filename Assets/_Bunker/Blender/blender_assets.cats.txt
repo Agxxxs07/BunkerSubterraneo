@@ -1,0 +1,7 @@
+# This is an Asset Catalog Definition file for Blender.
+VERSION 1
+
+94077b36-73f4-5afd-ac85-6adecca47ec3:Bunker:Bunker
+d2d6cde5-6b55-5c47-862c-9abc897e94d0:Bunker/Estructura:Bunker-Estructura
+9ba1ccc1-4485-5a6e-a83b-c7b08908b814:Bunker/Interactivo:Bunker-Interactivo
+56fbdc93-bba1-5735-92a9-5582df3f93fc:Bunker/Props:Bunker-Props
